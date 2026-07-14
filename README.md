@@ -12,13 +12,14 @@
 * **구조화된 기술 문서(Structured Docs) 디버깅** | XML/DITA 데이터 구조에 대한 전문성을 바탕으로, 최종 산출물 빌드 과정의 기술적 오류를 실시간 트러블슈팅
 * **글로벌 프로덕트 딜리버리 및 QA** | 국·영문 및 다국어 문자 특성을 반영한 레이아웃 최적화로, 글로벌 고객 대상 최종 프로덕트(PDF/HTML)의 시각적 완성도 확보
 * **스케줄 및 팀 리소스 관리** | 복잡하고 빡빡한 제품 출시(양산) 일정에 맞추어 팀원 관리 및 퍼블리싱 파이프라인을 리드하며 납기 준수율 100% 달성
+* **글로벌 산출물 제공을 위한 PL법 검수** | 다국어 산출물 제공을 위해 제작하는 기술 문서에 맞춘 국가별 PL법 검수 및 관리  
 
 ---
 
 ### 💼 경력 기술 (Work Experience)
 
-#### **[현재 회사명]** `2025.01 ~ 현재 (1년 근무)`
-**산출물 제작 팀장 (Output Production Lead)**
+#### **[MAOOM]** `2020.08 ~ 현재 (6년 근무)`
+**산출물 관리 및 QC 파트 과장 **
 
 * **기아(KIA) 오너스매뉴얼 최종 산출물(PDF/HTML) 빌드 프로세스 총괄**
   * 차종별 양산 스케줄과 연동된 글로벌 기술 문서의 최종 배포 일정 및 리소스 관리
@@ -35,13 +36,13 @@
 * **Domain:** Technical Writing, Content QA, Localization, Content Operations
 * **Technical:** XML / DITA, Content Management System (CMS), HTML/CSS, 구조화 문서 설계
 * **Management:** Schedule & Risk Management, Team Leadership, Process Optimization
-* **Tools:** Jira, Confluence, Slack
+* **Tools:** Jira, Confluence, Slack, Adobe FrameMaker, Oxygen
 
 ---
 
 ### 🎓 학력 (Education)
 
-* **[OO대학교]** [OO학과] 졸업 `2017.03 ~ 2021.02`
+* **[한국외국어대학교 글로벌 캠퍼스]** [폴란드어학과] 졸업 `2008.03 ~ 2014.08`
 
 ---
 
